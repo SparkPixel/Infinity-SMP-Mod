@@ -1,4 +1,4 @@
-# Infinity SMP Mod
+# Infinity Stones Mod
 
 Welcome to the Infinity Stones Mod! This mod introduces the six Infinity Stones to Minecraft, each granting unique and powerful abilities to the wielder. Discover the stones, craft powerful artifacts, and master the universe!
 
@@ -47,3 +47,11 @@ Unlimited power at your fingertips.
 1.  Install Fabric Loader for Minecraft 1.21.11.
 2.  Drop the `infinity-stones-x.x.x.jar` into your `mods` folder.
 3.  Enjoy!
+
+## Server Setup
+1.  Download the **Fabric Installer** and run it. Select the "Server" tab.
+2.  Select Minecraft version `1.21.11` and the correct loader version, then click "Install".
+3.  Running the installer will generate a `fabric-server-launch.jar` and `server.jar`.
+4.  Run the server once to generate the folders and `eula.txt`. Accept the EULA.
+5.  Place `infinity-stones-x.x.x.jar` and `fabric-api` into the `mods` folder of your server.
+6.  Run the server again to load the mod.
