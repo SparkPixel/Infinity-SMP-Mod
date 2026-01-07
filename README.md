@@ -1,4 +1,4 @@
-# Infinity Stones Mod
+# Infinity SMP Mod
 
 Welcome to the Infinity Stones Mod! This mod introduces the six Infinity Stones to Minecraft, each granting unique and powerful abilities to the wielder. Discover the stones, craft powerful artifacts, and master the universe!
 
